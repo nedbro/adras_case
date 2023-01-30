@@ -1,0 +1,10 @@
+To create a new model, run
+java -jar langdetect.jar -train [language name] [train text file] 
+from the directory work.
+To determine a the language of a text file, run
+java -jar langdetect.jar -decide [text file]
+from the directory work; e.g.
+java -jar langdetect.jar -decide test.txt
+
+All text files should be encoded in utf8.
+

@@ -1,0 +1,10 @@
+For Eclipse:
+
+Extract this zip file to a folder (e.g. D:\case)
+Create a new workspace (e.g. D:\workspace)
+Open Eclipse in the new workspace
+Choose Import - General - Projects from folder or archive, then select D:\cases\Andras_Case\András Case
+
+The main method supports two operations: "train" and "decide". See included README file how to call main.
+
+Installation instructions for other IDEs such as IntelliJ are similar.
